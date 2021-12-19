@@ -1,0 +1,32 @@
+<style>
+        #frame001 {
+            border-radius: 5px;
+            background-color: WHITE;
+            border: 2px solid DODGERBLUE;
+            height: 350px;
+            width: 400px;
+        }
+
+        .buttons001 {
+            background-color: dodgerblue;
+            color: white;
+            width: 70px;
+            height: 30px;
+            border-radius: 5px;
+        }
+
+        .buttons002 {
+            background-color: blue;
+            color: white;
+            width: auto;
+            height: 30px;
+            border-radius: 5px;
+        }
+
+        #font001 {
+            text-align: center;
+            font-size: large;
+            color: black;
+        }
+
+    </style>
